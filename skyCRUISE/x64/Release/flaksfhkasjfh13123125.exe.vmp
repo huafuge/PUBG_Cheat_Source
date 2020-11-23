@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Document Version="2">
+    <Protection InputFileName="flaksfhkasjfh13123125.exe" Options="991176">
+        <Messages />
+        <Folders />
+        <Procedures>
+            <Procedure MapAddress='VMProtectMarker &quot;MainFunc_&quot;' Options="0" CompilationType="2" />
+            <Procedure MapAddress="DisableProxies(void)" Options="0" CompilationType="2" />
+            <Procedure MapAddress='VMProtectMarker &quot;WEBFUNC_&quot;' Options="0" CompilationType="2" />
+            <Procedure MapAddress="READ_INIT(void)" Options="0" CompilationType="2" />
+        </Procedures>
+        <Objects />
+    </Protection>
+    <DLLBox>
+        <Folders />
+    </DLLBox>
+    <Script />
+    <LicenseManager />
+</Document>

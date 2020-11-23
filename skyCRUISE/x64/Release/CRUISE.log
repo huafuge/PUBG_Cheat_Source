@@ -1,0 +1,97 @@
+﻿  Sky.cpp
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Memory.h(11,48): warning C4244: '인수': 'SIZE_T'에서 'ULONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(341,78): warning C4244: '인수': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(341,68): warning C4244: '인수': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(341,59): warning C4244: '인수': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(342,78): warning C4244: '인수': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(342,68): warning C4244: '인수': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(342,59): warning C4244: '인수': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(343,78): warning C4244: '인수': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(343,68): warning C4244: '인수': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(343,59): warning C4244: '인수': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(344,78): warning C4244: '인수': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(344,68): warning C4244: '인수': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(344,59): warning C4244: '인수': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(348,23): warning C4244: '=': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(349,21): warning C4244: '=': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(350,22): warning C4244: '=': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(357,1): warning C4244: '+=': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(358,1): warning C4244: '+=': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(359,1): warning C4244: '+=': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(366,1): warning C4244: '-=': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(367,1): warning C4244: '-=': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(368,1): warning C4244: '-=': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(375,1): warning C4244: '/=': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(376,1): warning C4244: '/=': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(377,1): warning C4244: '/=': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(384,1): warning C4244: '*=': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(385,1): warning C4244: '*=': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(386,1): warning C4244: '*=': 'FLOAT'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(397,20): warning C4244: 'return': 'INT'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(399,20): warning C4244: 'return': 'INT'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defines.h(401,20): warning C4244: 'return': 'INT'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Config.h(8,104): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defs.h(114,1): warning C4005: 'LOBYTE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(206): message : 'LOBYTE'의 이전 정의를 참조하십시오.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defs.h(115,1): warning C4005: 'LOWORD': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(204): message : 'LOWORD'의 이전 정의를 참조하십시오.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defs.h(117,1): warning C4005: 'HIBYTE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(207): message : 'HIBYTE'의 이전 정의를 참조하십시오.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\defs.h(118,1): warning C4005: 'HIWORD': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(205): message : 'HIWORD'의 이전 정의를 참조하십시오.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\UGameData.h(1186,45): warning C4244: '인수': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Overlay.h(53,53): warning C4244: '=': 'DWORD'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Overlay.h(228,28): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Overlay.h(229,28): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Overlay.h(241,28): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Overlay.h(242,28): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(101,13): warning C4244: '초기화 중': 'ImU32'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(102,13): warning C4244: '초기화 중': 'ImU32'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(103,13): warning C4244: '초기화 중': 'ImU32'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(104,13): warning C4244: '초기화 중': 'ImU32'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(295,99): warning C4804: '>': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(315,61): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(317,64): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(363,40): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(368,57): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(434,96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(796,39): warning C4311: '형식 캐스트': 'HWND'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(796,39): warning C4302: '형식 캐스트': 'HWND'에서 'int'(으)로 잘립니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(872,38): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(902,8): warning C4530: C++ 예외 처리기가 사용되었지만 해제 의미 체계가 활성화되지 않았습니다. /EHsc를 지정하십시오.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(934,30): warning C4305: '인수': 'unsigned int'에서 '_Ty'(으)로 잘립니다.
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(966,36): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(968,36): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(984,55): warning C4244: '=': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(985,59): warning C4244: '=': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(986,30): warning C4244: '=': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(989,33): warning C4244: '+=': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(1113,30): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(1146,68): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(1123,39): warning C4101: 'recoil' :참조되지 않은 지역 변수입니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(1123,17): warning C4101: 'XAimSleep' :참조되지 않은 지역 변수입니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(1123,28): warning C4101: 'YAimSleep' :참조되지 않은 지역 변수입니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(1427,51): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(1431,105): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(1431,59): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(1432,53): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(1438,16): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(1438,40): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(1439,16): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(1439,40): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(1474,90): warning C4244: '인수': 'DWORD64'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(1705,15): warning C4244: '인수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(1712,26): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(1713,26): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(1710,15): warning C4101: 'xy' :참조되지 않은 지역 변수입니다.
+C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\Sky.cpp(1851,5): warning C4551: 함수 호출에 인수 목록이 없습니다.
+  코드를 생성하고 있습니다.
+  105 of 2077 functions ( 5.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    84 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  CRUISE.vcxproj -> C:\Users\noano\Desktop\개발관련\제품목록\배그\Scouter\x64\Release\flaksfhkasjfh13123125.exe
